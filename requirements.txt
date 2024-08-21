@@ -3,3 +3,10 @@ uvicorn
 scikit-learn
 xgboost
 matplotlib
+matplotlib
+joblib==1.2.0
+Flask>=2.0.1
+Werkzeug>=2.1.0
+Jinja2>=3.0.0
+MarkupSafe>=2.1.0
+scikit-learn==1.5.1
